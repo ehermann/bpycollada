@@ -22,7 +22,7 @@
 bl_info = {
     'name'       : 'COLLADA format',
     'author'     : 'Tim Knip, Dusan Maliarik',
-    'blender'    : (2, 5, 7),
+    'blender'    : (2, 8, 0),
     'api'        : 35622,
     'location'   : 'File > Import',
     'description': 'Import COLLADA',
